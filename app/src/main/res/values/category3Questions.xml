@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category3">History</string>
+    <string-array name = "category3_questions">
+        <item>What is the Champlain College Mascot?</item>
+        <item>When was Champlain founded?</item>
+        <item>Champlain was originally located on Bank Street</item>
+        <item>What was the College originally named?</item>
+        <item>Champlain has bought former UVM fraternity houses to use as dorms</item>
+        <item>Champlain college was named after which man?</item>
+        <item>What is the name of the person the statue is modeled after?</item>
+        <item>How many Residence Halls are restored Victorian mansions?</item>
+        <item>What year did the Women\'s field hockey team win the NJCAA National Championship</item>
+        <item>The first computer at Champlain was a(n) ___</item>
+    </string-array>
+
+    <string-array name = "category3_question1_answers">
+        <item>Lake Monster</item>
+        <item>Catamount</item>
+        <item>Beaver</item>
+        <item>Knight</item>
+    </string-array>
+
+    <string-array name = "category3_question2_answers">
+        <item>1878</item>
+        <item>1900</item>
+        <item>1854</item>
+        <item>1938</item>
+    </string-array>
+
+    <string-array name = "category3_question3_answers">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name = "category3_question4_answers">
+        <item>Champlain College</item>
+        <item>Burlington College of Business</item>
+        <item>Burlington Collegiate Institute</item>
+        <item>Green Mountain College of Commerce</item>
+    </string-array>
+
+    <string-array name = "category3_question5_answers">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name="category3_question6_answers"></string-array>
+
+    <integer-array name = "category3_image_answers">
+        <item>@drawable/henry_hudson</item>
+        <item>@drawable/samuel_de_champlain</item>
+        <item>@drawable/thomas_jefferson</item>
+    </integer-array>
+
+    <string-array name = "category3_question7_answers">
+        <item>Patrick De Champlain</item>
+        <item>Thomas De Champlain</item>
+        <item>Marco De Champlain</item>
+        <item>Samuel De Champlain</item>
+    </string-array>
+
+    <string-array name = "category3_question8_answers">
+        <item>4</item>
+        <item>12</item>
+        <item>8</item>
+        <item>25</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name = "category3_question9_answers">
+        <item>1966</item>
+        <item>1977</item>
+        <item>1988</item>
+        <item>1999</item>
+    </string-array>
+
+    <string-array name = "category3_question10_answers">
+        <item>iMac</item>
+        <item>IBM 1130</item>
+        <item>Punch Card Computer</item>
+        <item>Alienware Laptop</item>
+    </string-array>
+
+    <integer-array name="category3_answerIndices">
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+    </integer-array>
+
+    <integer name="category3_imageIndex">5</integer>
+
+    <string name="category3_scores">cat3scores.txt</string>
+
+</resources>

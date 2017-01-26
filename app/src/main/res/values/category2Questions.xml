@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category2">School Spirit</string>
+
+    <string-array name = "category2_questions">
+        <item>What is the Champlain College Mascot?</item>
+        <item>Champlain offers club and intramural sports</item>
+        <item>Champlain students can start and join fraternities and sororities</item>
+        <item>Champlain has over 40 student clubs and organizations</item>
+        <item>How many spots are available to run for Student Government?</item>
+        <item>What is the popular e-sports charity event on campus?</item>
+        <item>Which of these is not an e-sports team at Champlain?</item>
+        <item>What is the name of the Champlain College Mascot?</item>
+        <item>The popular posts put up in the school bathrooms are called</item>
+        <item>Champlain\'s biggest incoming class (Class of 2020) welcomed how many students?</item>
+    </string-array>
+
+    <string-array name = "category2_question1_answers">
+        <item>Lake Monster</item>
+        <item>Catamount</item>
+        <item>Beaver</item>
+        <item>Knight</item>
+    </string-array>
+
+    <string-array name = "category2_question2_answers">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name = "category2_question3_answers">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name = "category2_question4_answers">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+
+    <string-array name = "category2_question5_answers">
+        <item>4</item>
+        <item>8</item>
+        <item>5</item>
+        <item>14</item>
+    </string-array>
+
+    <string-array name = "category2_question6_answers">
+        <item>Smash Brawl</item>
+        <item>Dota 2 Tournament</item>
+        <item>Extra Life</item>
+        <item>CS:GO Invitational</item>
+    </string-array>
+
+    <string-array name = "category2_question7_answers">
+        <item>Dota 2</item>
+        <item>Overwatch</item>
+        <item>League of Legends</item>
+        <item>Pokemon</item>
+    </string-array>
+
+    <string-array name = "category2_question8_answers">
+        <item>Chompy T. Beaver</item>
+        <item>Chauncy T. Beaver</item>
+        <item>Champy T. Beaver</item>
+        <item>Chancy T. Beaver</item>
+    </string-array>
+
+    <string-array name = "category2_question9_answers">
+        <item>Bathroom Bonanza</item>
+        <item>Stall Street Journal</item>
+        <item>Champ News</item>
+    </string-array>
+
+    <string-array name = "category2_question10_answers">
+        <item>650</item>
+        <item>800</item>
+        <item>700</item>
+        <item>750</item>
+    </string-array>
+
+    <integer-array name="category2_answerIndices">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+    <string name="category2_scores">cat2scores.txt</string>
+</resources>

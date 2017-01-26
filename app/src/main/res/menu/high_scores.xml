@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Trophy icon taken from https://icons8.com/web-app/15728/trophy-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/high_scores"
+        android:title="HighScores"
+        android:icon="@drawable/trophy"
+        android:orderInCategory="2"
+        app:showAsAction="always"
+        />
+</menu>

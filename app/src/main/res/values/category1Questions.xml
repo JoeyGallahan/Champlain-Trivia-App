@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="category1">General</string>
+
+    <string-array name = "category1_questions">
+        <item>How many forks are in the cafeteria?</item>
+        <item>Which of these is not on the Board of Trustees?</item>
+        <item>How many students go to Champlain College?</item>
+        <item>What is the acceptance rate of Champlain College?</item>
+        <item>Champlain has been ranked as one of the most ____ colleges in New England</item>
+        <item>The Emergent Media Center is commonly called the ____ campus</item>
+        <item>Which of these is not a dorm at Champlain?</item>
+        <item>Where is Champlain College located?</item>
+        <item>What are Champlain\'s School Colors?</item>
+        <item>Champlain has a sister campus in</item>
+    </string-array>
+
+    <string-array name = "category1_question1_answers">
+        <item>None</item>
+        <item>Many</item>
+        <item>A few</item>
+        <item>Six</item>
+    </string-array>
+
+    <string-array name = "category1_question2_answers">
+        <item>David Stiller</item>
+        <item>Joey Gallahan</item>
+        <item>Jane Swift</item>
+        <item>Charles Kittredge</item>
+    </string-array>
+
+    <string-array name = "category1_question3_answers">
+        <item>4,000</item>
+        <item>2,000</item>
+        <item>3,000</item>
+        <item>10,000</item>
+    </string-array>
+
+    <string-array name = "category1_question4_answers">
+        <item>63%</item>
+        <item>54%</item>
+        <item>80%</item>
+        <item>75%</item>
+    </string-array>
+
+    <string-array name = "category1_question5_answers">
+        <item>Exclusive</item>
+        <item>Cold</item>
+        <item>Conservative</item>
+        <item>Innovative</item>
+    </string-array>
+
+    <string-array name = "category1_question6_answers">
+        <item>Lakeview</item>
+        <item>Lakeside</item>
+        <item>ChampSide</item>
+        <item>Champview</item>
+    </string-array>
+
+    <string-array name = "category1_question7_answers">
+        <item>Juniper</item>
+        <item>Stiller</item>
+        <item>Summit</item>
+        <item>Valcour</item>
+    </string-array>
+
+    <string-array name = "category1_question8_answers">
+        <item>Winooski, Vermont</item>
+        <item>Vergennes, Vermont</item>
+        <item>Burlington, Vermont</item>
+        <item>St. Albans, Vermont</item>
+    </string-array>
+
+    <string-array name = "category1_question9_answers">
+        <item>Blue, White</item>
+        <item>White, Green, Blue</item>
+        <item>Green, Blue</item>
+        <item>White, Green</item>
+    </string-array>
+
+    <string-array name = "category1_question10_answers">
+        <item>Barcelona, Spain</item>
+        <item>Dublin, Ireland</item>
+        <item>London, England</item>
+        <item>Paris, France</item>
+    </string-array>
+
+    <integer-array name="category1_answerIndices">
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+    </integer-array>
+
+    <string name="category1_scores">cat1scores.txt</string>
+</resources>

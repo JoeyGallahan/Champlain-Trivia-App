@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Champlain Quiz</string>
+    <string name="category_selection">Choose a category</string>
+
+    <string name="enter_name">Enter your initials:</string>
+    <string name="game_over">Game Over</string>
+
+    <string name="score">Score: </string>
+    <string name="scores">0</string>
+    <string name="final_score">Final Score: </string>
+    <string name="high_scores">High Scores</string>
+    <string name="show_scores">"+"</string>
+    <string name="hide_scores">"-"</string>
+    <string name="score_saved">Score Saved!</string>
+    <string name="blank_high_score">aaa - 0</string>
+
+    <string name="correct_toast">CORRECT</string>
+    <string name="incorrect_toast">WRONG</string>
+    <string name="nothing_toast">PLEASE CHOOSE AN ANSWER</string>
+
+    <string name="hint">(Hmm... that one didn\'t look right)</string>
+    <string name="next_button">SUBMIT</string>
+    <string name="hint_button">"?"</string>
+
+    <string name="debug"></string>
+</resources>
